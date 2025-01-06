@@ -1,3 +1,6 @@
 [submodule "MediHub-BE"]
 	path = MediHub-BE
 	url = https://github.com/Beyond-Article1/MediHub-BE.git
+[submodule "MediHub-FE"]
+	path = MediHub-FE
+	url = https://github.com/Beyond-Article1/MediHub-FE.git
