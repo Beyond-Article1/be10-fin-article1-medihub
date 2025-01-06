@@ -855,7 +855,8 @@ module.exports = mongoose.model('ChatMessage', chatMessageSchema);
 
 ### 7-2. CI/CD 결과서
 #### 7-2-1. Backend CI/CD 결과서
-![BackendCICD](https://github.com/user-attachments/assets/595f046f-1dec-4635-90e9-0374293c8cc9)
+![BackendCI](https://github.com/user-attachments/assets/595f046f-1dec-4635-90e9-0374293c8cc9)
+![BackendCD](https://github.com/user-attachments/assets/610da618-3ca1-4bc5-921c-ddbd9767693e)
 
 #### 7-2-2. Frontend CI/CD 결과서
 ![FrontendCI](https://github.com/user-attachments/assets/692d9175-3259-4f90-9420-cdbffdf8f3fd)
